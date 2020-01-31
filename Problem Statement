@@ -1,0 +1,9 @@
+Problem Statement:-
+	Actual Problem in our software project:
+    In our game the objects are moving automatically without any user interaction.
+    Also there is no choice given to user to select or exit the game.
+    There is no feature of choosing any option rather the user has to type the upcoming processess.
+
+Solution:-
+	We will be using multithreading for proper visualisation and orientation of instances for improving user interaction.
+  We will use modules and libraries both user defined and pre-defined.

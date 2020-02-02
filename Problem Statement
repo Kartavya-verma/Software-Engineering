@@ -1,11 +1,17 @@
 Problem Statement:-
-	Actual Problem in our software project:
-    In this project the objects are moving automatically without any user interaction.
-    Also there is no choice given to user to select or exit in project.
-    There is no feature of choosing any option rather the user has to type the upcoming processess.
-    This project is to create a chat application with a server with one or more users thus to enable the users to chat with each other.
- 
+
+	Email, newsgroup and messaging applications provide means for communication among people but these are one-way mechanisms and 
+	they do not provide an easy way to carry on a real-time conversation or discussion with people involved. 
+	Chat room extends the one-way messaging concept to accommodate multi-way communication among a set of people.
+	Chat rooms have become a popular way to support a forum for n-way conversation or discussion among a set of people with 
+	interest in a common topic. 
+	Chat applications range from simple, text-based ones to entire virtual worlds with exotic graphics.
 
 Solution:-
-	We will be using multithreading for proper visualisation and orientation of instances for improving user interaction.
-  We will use modules and libraries both user defined and pre-defined.
+	In this project we are implementing a simple text-based chat client/server application.
+	This project is to create a chat application with a server and users to unable the users to chat with each other.
+	To develop an instant messaging solution to enable users to seamlessly communicate with each other.
+	The chat application we are going to make will be more like a chat room, rather than a peer to peer chat. 
+	So this means that multiple users can connect to the chat server and send their messages. 
+	Every message is broadcasted to every connected chat user 
+	This project is very easy to use enabling even a novice person to use it. 

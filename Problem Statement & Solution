@@ -1,17 +1,21 @@
 Problem Statement:-
 
-	Email, newsgroup and messaging applications provide means for communication among people but these are one-way mechanisms and 
-	they do not provide an easy way to carry on a real-time conversation or discussion with people involved. 
-	Chat room extends the one-way messaging concept to accommodate multi-way communication among a set of people.
-	Chat rooms have become a popular way to support a forum for n-way conversation or discussion among a set of people with 
-	interest in a common topic. 
-	Chat applications range from simple, text-based ones to entire virtual worlds with exotic graphics.
+	->Email, newsgroup and messaging applications provide means for communication among people but these are one-way mechanisms and 
+	  they do not provide an easy way to carry on a real-time conversation or discussion with people involved. 
+	->Suppose you have to use a chat application where multiple users can chat together.
+	->Rather than each user sending the message directly to other users,we can use mediator pattern to implement this design.
+	->The problem with the internet messaging is Data loss or viewed by third party while transferring data or infromation.
+	->Some untrusted staff will denial the task that given to them,take time to receive the data or information through internet.
+	->Chat room extends the one-way messaging concept to accommodate multi-way communication among a set of people.
+	->Chat rooms have become a popular way to support a forum for n-way conversation or discussion among a set of people with 
+	  interest in a common topic. 
+	->Chat applications range from simple, text-based ones to entire virtual worlds with exotic graphics.
 
 Solution:-
-	In this project we are implementing a simple text-based chat client/server application.
-	This project is to create a chat application with a server and users to unable the users to chat with each other.
-	To develop an instant messaging solution to enable users to seamlessly communicate with each other.
-	The chat application we are going to make will be more like a chat room, rather than a peer to peer chat. 
-	So this means that multiple users can connect to the chat server and send their messages. 
-	Every message is broadcasted to every connected chat user 
-	This project is very easy to use enabling even a novice person to use it. 
+	->In this project we are implementing a simple text-based chat client/server application.
+	->This project is to create a chat application with a server and users to unable the users to chat with each other.
+	->To develop an instant messaging solution to enable users to seamlessly communicate with each other.
+	->The chat application we are going to make will be more like a chat room, rather than a peer to peer chat. 
+	->So this means that multiple users can connect to the chat server and send their messages. 
+	->Every message is broadcasted to every connected chat user 
+	->This project is very easy to use enabling even a novice person to use it. 

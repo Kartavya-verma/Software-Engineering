@@ -1,0 +1,13 @@
+->Chat program is like any other Client-server application so it would require all those tools/platforms that are required for a simple 
+  client-server application (eg. the most basic form of website hosted on a server and accessed by a thin Client or a thick client
+
+->If you have basic knowledge of any Programming language, then using the web based APIs of that language you can create a simple chat 
+  program.
+
+->We will be using socket programming for the development of this software.We will create a chat program which did a trivial task 
+  of group chat.
+
+->This means a user posts a message on his browser and that message is received by the server and relayed to all the other users accessing 
+  my chat server at same time.
+
+->We will be using Python and its frameworks for developing this project.  

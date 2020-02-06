@@ -1,0 +1,18 @@
+In the system development, there are number of methodologies, known as SDLC (System Development Life Cycle), which can be applied such 
+as Waterfall, Evolutionary Development and Component-Based Software Engineering. The selected-approach reflects the success of the system.
+
+In the waterfall model, the system development process cascades from one phase to another.
+It comprises six phases, namely:
+1.Phase one : System Planning
+2.Phase two : Problem Analysis
+3.Phase three : System Design
+4.Phase four : System Implementation
+5.Phase five : System Testing
+6.Phase six : Operation and Maintenance
+
+In Figure 1 shows the waterfall sequential model from one phase to the next in a cascading method.It means the following phase should
+not start until the previous phase has finished. For instance, one first completes systems planning, which are set in stone. 
+When the requirements are fully completed,one proceeds to problem analysis. Next, after the problem analyses are fully completed, 
+it goes to system design. When the design is fully completed, a system implementation of that design is made by coders. 
+During the final life-cycle phase, the software is put into use. Errors and omissions are discovered.Therefore, the waterfall model
+maintains that one should move to a phase only when it’s proceeding phase is completed and perfected.

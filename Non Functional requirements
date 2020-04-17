@@ -1,9 +1,0 @@
-NON FUNCTIONAL REQUIREMENTS
-1. PRIVACY
-Messages shared between the users must be encrypted so that privacy is maintained.
-
-2.ROBUSTNESS
-In case useres devive crashes, there should be a backup and a chat history.
-
-3. PERFORMANCE
-Application must be light weight and the messages should be deliverd instantly
